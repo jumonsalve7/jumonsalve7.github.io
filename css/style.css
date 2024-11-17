@@ -492,6 +492,7 @@ body {
 }
 
 .footer__title, .footer__newsletter{
+    text-align: center;
     color:#FFF;
 }
 
@@ -688,6 +689,7 @@ body {
     }
 
     .subtitle{
+        text-align: center;
         font-size: 1.8rem;
     }
 
@@ -721,7 +723,7 @@ body {
     }
     
     .footer__title{
-        justify-self: start;
+        justify-self: center;
         margin-bottom: 15px;
     }
 
