@@ -9,3 +9,5 @@ HTML5: Page structure.
 CSS3: Styles and visual design.
 
 JavaScript: Basic interactivity on the page.
+
+You just have to copy the next link and paste in the tab of the navegator: https://jumonsalve7.github.io/
